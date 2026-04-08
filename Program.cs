@@ -22,7 +22,7 @@ namespace D_D
         {
             "Nymphea", "Brianna", "Veliandra", "Glimmera", "Daelia",
             "Elvira", "Zheliana", "Zefira", "Ilmariel", "Callista",
-            "Liriel", "Meliandra", "Tamara Ivanivna", "Oriana", "Periandra",
+            "Liriel", "Meliandra", "Lysandra", "Oriana", "Periandra",
             "Ravenna", "Silindra", "Talianna", "Firael", "Celiandra"
         };
         private enum Classes
